@@ -1,0 +1,11 @@
+C:\Users\SOMIII\Documents\Visual Studio 2010\Projects\webDM\webDM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SOMIII\Documents\Visual Studio 2010\Projects\webDM\webDM\obj\x86\Debug\webDM.Form1.resources
+C:\Users\SOMIII\Documents\Visual Studio 2010\Projects\webDM\webDM\obj\x86\Debug\webDM.Properties.Resources.resources
+C:\Users\SOMIII\Documents\Visual Studio 2010\Projects\webDM\webDM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SOMIII\Documents\Visual Studio 2010\Projects\webDM\webDM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SOMIII\Documents\Visual Studio 2010\Projects\webDM\webDM\bin\Debug\webDM.exe
+C:\Users\SOMIII\Documents\Visual Studio 2010\Projects\webDM\webDM\bin\Debug\webDM.pdb
+C:\Users\SOMIII\Documents\Visual Studio 2010\Projects\webDM\webDM\obj\x86\Debug\webDM.exe
+C:\Users\SOMIII\Documents\Visual Studio 2010\Projects\webDM\webDM\obj\x86\Debug\webDM.pdb
+C:\Users\SOMIII\Documents\Visual Studio 2010\Projects\webDM\webDM\obj\x86\Debug\webDM.Form2.resources
+C:\Users\SOMIII\Documents\Visual Studio 2010\Projects\webDM\webDM\bin\Debug\webDM.exe.config
